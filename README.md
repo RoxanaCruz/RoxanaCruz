@@ -3,7 +3,7 @@
 Welcome to my cozy corner of GitHub! I'm a passionate tech enthusiast and a creative soul on a mission to make the world a better place through code! 🌟
 
 
-## Hi! im Roxy this is a little about me and what I do
+## Hi! im Roxy. This is a little about me and what I do
 
 - 🖥️ **Dev** | Crafting beautiful and intuitive user experiences. My ultimate career goal is to build a career in Computer Science, focusing on artificial intelligence and cloud computing, with the dream of working at a leading software company.
 - 🌍 **Values** | Growing up in a marginalized community, I didn’t have as much support from my parents as most Latino families suffer from financial and educational barriers. I didn’t have many conversations with people in tech jobs or high positions. It was tough to find someone of my status who achieved a career and, on top of that, a woman. Which is why I strongly believe that a student's career and educational success are determined by how much they push themselves to get out of their comfort zone. As a first-generation college student, I noticed how important it is to leverage my passions for education, technology, and social justice by participating in programs that help the community and build that bridge to higher education.
@@ -36,12 +36,11 @@ Welcome to my cozy corner of GitHub! I'm a passionate tech enthusiast and a crea
 ## 🌱 Fun Facts About Me
 
 - 🌻 I love turning creative ideas into reality.
-- 🧩 Puzzles and problem-solving are my jam!
+- 🧩 Puzzles and problem-solving are my thing!
 - 🎨 When I'm not coding, you'll find me painting or exploring the art scene in LA.
 
 ## 💌 Let's Connect!
 
-- 🌐 [Personal Website](https://roxanacruz.dev)
 - 💌 [Email Me](mailto:rox21cruz@gmail.com)
 - 💼 [LinkedIn](http://www.linkedin.com/in/roxanacruzlopez)
 
