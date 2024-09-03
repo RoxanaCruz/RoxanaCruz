@@ -1,6 +1,6 @@
-# Hello World!, I'm Roxana Cruz! 🌸
+# Hello World!, I'm Roxana Cruz!
 
-Welcome to my cozy corner of GitHub! I'm a passionate tech enthusiast and a creative soul on a mission to make the world a better place through code! 🌟
+Welcome to my cool corner of GitHub! I'm a passionate tech enthusiast and a creative soul on a mission to make the world a better place through code! 🌟
 
 
 ## Hi! im Roxy. This is a little about me and what I do
