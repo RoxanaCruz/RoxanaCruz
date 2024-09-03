@@ -44,9 +44,5 @@ Welcome to my cozy corner of GitHub! I'm a passionate tech enthusiast and a crea
 - 💌 [Email Me](mailto:rox21cruz@gmail.com)
 - 💼 [LinkedIn](http://www.linkedin.com/in/roxanacruzlopez)
 
-## 🎉 Thank You for Stopping By!
-
-Feel free to browse around and drop a star ⭐ if you find something cool! Let's create something amazing together! 🚀
-
-![Cute Footer](https://user-images.githubusercontent.com/yourusername/your-repo-name/footer.png)
+Feel free to browse around and drop a star ⭐ if you find something cool!
 
