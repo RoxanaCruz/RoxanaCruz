@@ -1,13 +1,14 @@
 
-## 🌱 Fun Facts About Me
+Hi!!!
 
-- 👩‍💻 I'm a big Stock market fanatic. I love researching and learning about startups and new emerging technologies and, overall, just analyzing the company stock; it is pretty fun.
-- 🧩 Puzzles and problem-solving are my thing; I love chess and Monopoly; I love winning!!
-- 🎨 When I'm not coding, I'm out running or eating food with my friends and family! (or in my bed watching a whole season of a show)
+I'm Roxana a student coder, jr software engineer, here are three things about me.
 
-## 💌 Let's Connect!
+I'm a big Stock market fanatic. I love researching and learning about startups and company stock, I am really up to date with tech space news Its like a drama to me.
+I  like competitive board games my favs are chess and Monopoly, I love winning!!
+I really like learning about different cultures, mainly because of the cuisines I love to try different foods from around the world, I really like thai food and indian
 
-- 💌 [Email Me](mailto:rox21cruz@gmail.com)
-- 💼 [LinkedIn](http://www.linkedin.com/in/roxanacruzlopez)
+## Let's Connect!
+
+ [Email Me](mailto:rox21cruz@gmail.com) 💼 [LinkedIn](http://www.linkedin.com/in/roxanacruzlopez)
 
 
